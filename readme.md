@@ -1,21 +1,8 @@
-#Instalacação 
-
-
-
-
-
-
-
-
-
+# Instalação 
+## Como subir no github
+### Passo a passo
 
 //Versionamento Materia Nova (GitHUB) 
-
-
-
-
-
-
 
 ===========
 
